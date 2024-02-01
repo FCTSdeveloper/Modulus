@@ -3,7 +3,7 @@
   <img src="./asset/img/main_modal_Icon.svg" height="80" alt="Modulus">
   </a>
 </div>
-[![Static Badge](https://img.shields.io/badge/Pyodide-v0.22.0-blue](https://github.com/pyodide/pyodide/tree/0.22.X)
+[![Static Badge](https://img.shields.io/badge/Pyodide-v0.22.0-blue)](https://github.com/pyodide/pyodide/tree/0.22.X)
 
 ## Modulus
 
