@@ -4,7 +4,7 @@
   </a>
 </div>
 
-![Pyodide Version](https://img.shields.io/badge/Pyodide-v0.22.0-blue)
+[![Pyodide Version](https://img.shields.io/badge/Pyodide-v0.22.0-blue)](https://github.com/pyodide/pyodide/tree/0.22.X)
 
 
 ## Modulus
